@@ -1,4 +1,6 @@
 # Resend MCP Server
+[![smithery badge](https://smithery.ai/badge/@pontusab/resend-mcp)](https://smithery.ai/server/@pontusab/resend-mcp)
+
 
 A Model Context Protocol (MCP) server implementation for the Resend email
 service.
@@ -15,6 +17,15 @@ service.
 
 ## Installation
 
+### Installing via Smithery
+
+To install Resend Email Service for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@pontusab/resend-mcp):
+
+```bash
+npx -y @smithery/cli install @pontusab/resend-mcp --client claude
+```
+
+### Manual Installation
 1. Clone the repository
 2. Install dependencies:
 
